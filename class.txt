@@ -9,5 +9,6 @@ Coral
 Silver
 Fuchsia
 Gray
-Brown
-Red
+Bryan
+Jordan
+Savanah 
